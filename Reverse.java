@@ -1,5 +1,5 @@
 # Guvi
-public class One {
+public class Reverse {
 	public static void main(String[] args) {
 		String str="This is the Example Program";
 		String[] s=str.split(" ");
