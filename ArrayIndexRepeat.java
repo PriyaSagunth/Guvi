@@ -17,5 +17,5 @@ import java.util.Scanner;
 				   }
 			   }
 		    s.close();
-			}
+		}
 	}
